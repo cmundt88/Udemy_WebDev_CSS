@@ -1,0 +1,23 @@
+/* Selector {
+    Property: value;
+} */
+
+h2 {
+    color: red;
+}
+
+p {
+    color: pink;
+}
+
+.foo {
+    color: red;
+}
+
+.first {
+    color: blue;
+}
+
+.second {
+    color: plum;
+}
